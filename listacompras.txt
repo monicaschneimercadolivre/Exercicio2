@@ -4,6 +4,7 @@ Alface
 Tomate
 Cebola
 Requeijão
-Feijão
-Arroz
-Carne de Charque
+Ovos
+Farinha
+Óleo 
+Vinagre
